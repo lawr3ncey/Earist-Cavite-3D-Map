@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Earist Cavite 3D Map (2)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B17F3E-E71F-CEA1-58A4-DB9B9A37AEC9}|Assembly-CSharp.csproj|c:\\users\\lenovo\\earist cavite 3d map (2)\\assets\\scripts\\pathrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B17F3E-E71F-CEA1-58A4-DB9B9A37AEC9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pathrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B17F3E-E71F-CEA1-58A4-DB9B9A37AEC9}|Assembly-CSharp.csproj|C:\\Users\\Lenovo\\Earist Cavite 3D Map (2)\\assets\\scripts\\emergencymode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B17F3E-E71F-CEA1-58A4-DB9B9A37AEC9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\emergencymode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B17F3E-E71F-CEA1-58A4-DB9B9A37AEC9}|Assembly-CSharp.csproj|C:\\Users\\Lenovo\\Earist Cavite 3D Map (2)\\assets\\scripts\\roleswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B17F3E-E71F-CEA1-58A4-DB9B9A37AEC9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\roleswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B17F3E-E71F-CEA1-58A4-DB9B9A37AEC9}|Assembly-CSharp.csproj|C:\\Users\\Lenovo\\Earist Cavite 3D Map (2)\\assets\\scripts\\locationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B17F3E-E71F-CEA1-58A4-DB9B9A37AEC9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\locationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B17F3E-E71F-CEA1-58A4-DB9B9A37AEC9}|Assembly-CSharp.csproj|C:\\Users\\Lenovo\\Earist Cavite 3D Map (2)\\assets\\scripts\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B17F3E-E71F-CEA1-58A4-DB9B9A37AEC9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B17F3E-E71F-CEA1-58A4-DB9B9A37AEC9}|Assembly-CSharp.csproj|C:\\Users\\Lenovo\\Earist Cavite 3D Map (2)\\assets\\scripts\\nlp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B17F3E-E71F-CEA1-58A4-DB9B9A37AEC9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\nlp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B17F3E-E71F-CEA1-58A4-DB9B9A37AEC9}|Assembly-CSharp.csproj|C:\\Users\\Lenovo\\Earist Cavite 3D Map (2)\\assets\\scripts\\speechtotext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B17F3E-E71F-CEA1-58A4-DB9B9A37AEC9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\speechtotext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B17F3E-E71F-CEA1-58A4-DB9B9A37AEC9}|Assembly-CSharp.csproj|C:\\Users\\Lenovo\\Earist Cavite 3D Map (2)\\assets\\scripts\\wavutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B17F3E-E71F-CEA1-58A4-DB9B9A37AEC9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\wavutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 274,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WavUtility.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Earist Cavite 3D Map (2)\\Assets\\Scripts\\WavUtility.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WavUtility.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Earist Cavite 3D Map (2)\\Assets\\Scripts\\WavUtility.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WavUtility.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T08:24:16.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SpeechToText.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Earist Cavite 3D Map (2)\\Assets\\Scripts\\SpeechToText.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpeechToText.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Earist Cavite 3D Map (2)\\Assets\\Scripts\\SpeechToText.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpeechToText.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAAAE4AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:41:33.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmergencyMode.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Earist Cavite 3D Map (2)\\Assets\\Scripts\\EmergencyMode.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EmergencyMode.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Earist Cavite 3D Map (2)\\Assets\\Scripts\\EmergencyMode.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EmergencyMode.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAQAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T15:33:28.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NLP.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Earist Cavite 3D Map (2)\\Assets\\Scripts\\NLP.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NLP.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Earist Cavite 3D Map (2)\\Assets\\Scripts\\NLP.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NLP.cs",
+              "ViewState": "AQIAAKcAAAAAAAAAAAAYwKkAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T16:53:15.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Earist Cavite 3D Map (2)\\Assets\\Scripts\\EmailSender.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Earist Cavite 3D Map (2)\\Assets\\Scripts\\EmailSender.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EmailSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T17:18:52.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LocationManager.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Earist Cavite 3D Map (2)\\Assets\\Scripts\\LocationManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LocationManager.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Earist Cavite 3D Map (2)\\Assets\\Scripts\\LocationManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LocationManager.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwDwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:41:25.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoleSwitcher.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Earist Cavite 3D Map (2)\\Assets\\Scripts\\RoleSwitcher.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RoleSwitcher.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Earist Cavite 3D Map (2)\\Assets\\Scripts\\RoleSwitcher.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RoleSwitcher.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:38:48.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PathRenderer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Earist Cavite 3D Map (2)\\Assets\\Scripts\\PathRenderer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PathRenderer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Earist Cavite 3D Map (2)\\Assets\\Scripts\\PathRenderer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PathRenderer.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAwwHEAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:29:37.562Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 157,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 111,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

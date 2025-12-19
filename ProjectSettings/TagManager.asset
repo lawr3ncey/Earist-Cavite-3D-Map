@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Location
+  - WallPrefab
+  - WallDoorPrefab
+  - RoofPrefab
+  - GroundFloorPrefab
+  - Stairs
+  - Floor
+  - Undefined
+  - FloorPrefab
+  - BalconyPrefab
+  - BuildingPart
+  - Emergency
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Buildings
+  - Walls
+  - Floor_1
+  - Stairs
+  - Floor_2
+  - Stairs_2
+  - Floor_3
+  - Roof
+  - MinimapOnly
+  - Rooms
+  - Emergency Exit
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
